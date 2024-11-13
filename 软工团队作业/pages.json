@@ -1,0 +1,117 @@
+{
+	"pages": [
+		// {
+			// "path": "pages/welcome/welcome",
+			// "style": {
+			// 	"navigationBarTitleText": "欢迎"
+			// }
+			// },
+			// {
+			// "path": "pages/login/login",
+			// "style": {
+			// 	"navigationBarTitleText": "登录"
+			// }
+			// },
+			// {
+			// "path": "pages/register/register",
+			// "style": {
+			// 	"navigationBarTitleText": "注册"
+			// }
+		// },
+		{
+			
+			"path": "pages/shouye/shouye",
+			"style": {
+				"navigationBarTitleText": "首页"
+			}
+		},
+		{
+			"path": "pages/weather/weather",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+		},
+		{
+			"path": "pages/custom-route/custom-route",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+		},
+		{
+			"path": "pages/emergency/emergency",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+		},
+		{
+			"path": "pages/my-trips/my-trips",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+		},
+		{
+			"path": "pages/feedback/feedback",
+			"style": {
+				"navigationBarTitleText": "在线客服"
+			}
+		},
+		{
+			"path": "pages/tuijianjieguo/tuijianjieguo",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+		},
+		{
+			"path": "pages/route-detail/route-detail",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+		},
+		{
+			"path": "pages/detailed-plan/detailed-plan",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+		},
+		{
+			"path": "pages/realtime/realtime",
+			"style": {
+				"navigationBarTitleText": "实时调整"
+			}
+		},
+		{
+			"path": "pages/prepare/prepare",
+			"style": {
+				"navigationBarTitleText": "未雨绸缪"
+			}
+		},
+		{
+			"path": "pages/customer-servece/customer-service",
+			"style": {
+				"navigationBarTitleText": "智能客服中心",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/trip-detail/trip-detail",
+			"style": {
+				"navigationBarTitleText": "行程详情",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			
+			"path": "pages/trip-modify/trip-modify",
+			"style": {
+				"navigationBarTitleText": "修改行程"
+			}
+		}
+	]
+	//"globalStyle": {
+	//	"navigationBarTextStyle": "black",
+	//	"navigationBarTitleText": "uni-app",
+	//	"navigationBarBackgroundColor": "#F8F8F8",
+	//	"backgroundColor": "#F8F8F8"
+}
+
+
